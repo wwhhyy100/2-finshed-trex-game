@@ -1,1 +1,1 @@
-# 2-finshed-trex-game
+# project-C22-template
